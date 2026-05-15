@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Víctor Lavalle 🖖</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong> · Java · AWS · TypeScript · Docker
+  <strong>Fullstack Developer</strong> · Java · AWS · TypeScript · Docker
 </p>
 
 <p align="center">
